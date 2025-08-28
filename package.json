@@ -1,0 +1,9 @@
+{
+  "name": "nifty-backend",
+  "version": "1.0.0",
+  "description": "CORS proxy for Nifty data",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {}
+}
