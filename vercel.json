@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/nifty.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
